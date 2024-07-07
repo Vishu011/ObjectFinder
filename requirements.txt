@@ -1,0 +1,14 @@
+Hardware
+
+ESP32-CAM
+FTDI Programmer or similar USB-to-serial adapter
+Jumper wires
+Power supply
+
+
+Software
+Python 3.x
+OpenCV
+ESP-IDF or Arduino IDE for ESP32-CAM
+Flask (for the optional web server)
+Required Python libraries: numpy, requests, flask
